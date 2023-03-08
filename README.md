@@ -1,4 +1,4 @@
-# FunctionCallLiberary
+# FunctionCallLibrary
 A library for common function calls on NEAR
 
 ## Motivation
